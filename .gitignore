@@ -1,0 +1,8 @@
+# Ignore specific file types
+*.log
+*.tmp
+*.bak
+*.json
+*.info
+*.targets
+*.cache
